@@ -23,3 +23,4 @@ Principales características de TakeMeHome:
 - Visualización de historial de pagos 
 - Visualización de historial de compras
 - Visualización de historial de pedidos
+- Visualización de barra de progreso de un pedido
