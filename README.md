@@ -1,10 +1,6 @@
 Información del proyecto
 Autores
-- Haro Dávila, Nicolas 			U201910045
-- Carrillo Mainicta, Michael		U20201A924
-- Botello Saldarriaga, Anthony 		U20201B846
-- Bautista Cabrera, Jeampier		U20201B931
-- Jamile Lourdes Lopez Llerena		U202012676
+
 Segmentos objetivo
 Primero, tenemos a los clientes que desean traer un paquete o producto de desde el exterior. 
 Este segmento está descrito de la siguiente manera: 
