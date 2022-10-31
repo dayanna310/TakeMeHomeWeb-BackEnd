@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Dario",
+      "name": "Dario"
       "lastname": "Diaz",
       "email": "j@gmail.com",
       "fecha": "18/11/2004",
