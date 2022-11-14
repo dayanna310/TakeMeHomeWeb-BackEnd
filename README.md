@@ -1,6 +1,6 @@
 # TakemehomeBackend
 
-Este es un proyecto de backend para la aplicación web de TakeMeHome
+Este es un proyecto de backend para la aplicación web de TakeMeHome el cual se realizo durante todo el curso
 
 ## Frameworks
 
